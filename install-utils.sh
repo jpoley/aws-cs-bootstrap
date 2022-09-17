@@ -1,1 +1,1 @@
-sudo yum install htop tree net-tools -y
+sudo yum install htop tree net-tools jq -y
